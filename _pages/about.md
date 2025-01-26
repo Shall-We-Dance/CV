@@ -204,3 +204,25 @@ Technical Skills
 [![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
 
+<a href='http://ipv6-test.com'><img src='http://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' /></a>
+
+<!-- IPv6-test.com widget BEGIN -->
+<script type="text/javascript">var _ipv6test_widget_style = {
+border: "solid 1px #000",
+font_size: "12px",
+show_country_flags: true,
+show_loading_anim: true,
+ipv4_label_color: "#393",
+ipv4_background_color: "#eee",
+ipv6_label_color: "#339",
+ipv6_background_color: "#ddd",
+stats_position: "bottom",
+stats_font_size: "10px",
+stats_color: "#eee",
+stats_color_v4: "#beb",
+stats_color_v6: "#bbe",
+stats_background_color: "#666"
+}</script>
+
+<div id="_ipv6test_widget" style="width:250px;display:none">loading <a href="http://ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="http://ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
+<!-- IPv6-test.com widget END -->
