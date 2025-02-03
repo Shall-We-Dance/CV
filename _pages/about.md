@@ -1,49 +1,228 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-94EQNHMBQF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-94EQNHMBQF');
+</script>
+
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Born and raised in Chengdu, Hongjiang received his bachelor's degree with honors from Nankai in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+His research interests now mainly lie in functional & computational genomics, as well as neurological disorders.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Education
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+*{padding:0;margin:0;}
+.media{width:100%;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left{float:left;border:0 solid #ccc}
+.pull-left img{width:75px;}
+.media-body{width:70%;float:left;margin-left:10px;}
+</style>
 
-Create content & metadata
+<div class="media">
+    <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Ph.D. Student</span></div>
+        <div>Department of Molecular Biology and Genetics</div>
+        <div>Cornell University, 2024-Present</div>
+    </div>
+</div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">B.S. Biological Science (w/ Honors)</span></div>
+        <div>Advisor: Prof. <a href="https://huanglab.cc" target="_blank">Xinglu Huang</a></div>
+        <div>Nankai University, 2018-2023</div>
+    </div>
+</div>
+
+Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<div class="media">
+    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Research Assistant</span></div>
+        <div>National Engineering Lab for Neuromodulation</div>
+        <div>Advisor: Prof. <a href="https://yanansui.com" target="_blank">Yanan Sui</a></div>
+        <div>Tsinghua University, 2022-2023</div>
+    </div>
+</div>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<div class="media">
+    <span class="pull-left"><img src="images/ucsf.png" width="75px" height="37.5px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Visiting Scholar</span></div>
+        <div>Institute for Human Genetics</div>
+        <div>Advisor: Prof. <a href="https://shenlab.ucsf.edu" target="_blank">Yin Shen</a></div>
+        <div>UCSF, 2021-2022</div>
+    </div>
+</div>
 
-How to edit your site's GitHub repository
+<div class="media">
+    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Intern</span></div>
+        <div>National Engineering Lab for Neuromodulation</div>
+        <div>Tsinghua University, 2021</div>
+    </div>
+</div>
+
+Publications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<style>
+.pub_title{font-size:16px;}
+.pub_author{font-size:16px;}
+.pub_journal{font-size:16px;}
+.subtitle{ 
+    font-size:16px;           
+    width: 100%;  
+    height: 40px; 
+    text-align:center     
+} 
+</style>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
-For more info
+<table>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> MYC phase separation selectively modulates the transcriptome </div>
+<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
+<div class="pub_journal"><i><b>Nature Structural & Molecular Biology</b>, 2024</i> [<a href="https://doi.org/10.1038/s41594-024-01322-6">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/PNAS2024.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Phase separation of YAP-MAML2 differentially regulates the transcriptome </div>
+<div class="pub_author"> Chung, C., Yang, J., Yang X., <b>Liu, H.</b>, ... Shen, Y., Shu, X.#</div>
+<div class="pub_journal"><i><b>PNAS</b>, 2024</i> [<a href="https://doi.org/10.1073/pnas.2310430121">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
+<div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
+<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/NG2023.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
+<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... , <b>Liu, H.</b>, ... & Shen, Y.# </div>
+<div class="pub_journal"><i><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/adma2022.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
+<div class="pub_author"> Wei, Y., Wu, J., Wu, Y., <b>Liu, H.</b>, ... , Huang, X.# </div>
+<div class="pub_journal"><i><b>Advanced Materials</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/publications/thno2022.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Bioorthogonal catalytic nanozyme-mediated lysosomal membrane leakage for targeted drug delivery </div>
+<div class="pub_author"> Sun, Z., Liu, Q., Wang, X., Wu, J., ... , <b>Liu, H.</b>, ... & Huang, X.# </div>
+<div class="pub_journal"><i><b>Theranostics</b>, 2022</i> [<a href="https://doi.org/10.7150/thno.66325">Paper</a>]</div>
+</td>
+</tr>
+
+</table>
+
+Awards
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+ * *Ray Wu* Graduate Fellowship, MBG, Cornell University 
+ * *Poling* Honors Degree, Nankai University
+ * Scholarship of Academic Progress, Nankai University
+
+Technical Skills
+------
+
+### Programming & Libraries
+
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
+[![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
+
+### Software
+
+[![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
+[![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
+[![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
+[![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
+[![](https://img.shields.io/badge/ImageJ-00D8E0?&style=for-the-badge&logo=imagej&logoColor=white)]()
+[![](https://img.shields.io/badge/SnapGene-5DB1D9?&style=for-the-badge&logoColor=white)]()
+[![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
+[![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
+[![](https://img.shields.io/badge/iterm2-000000?&style=for-the-badge&logo=iterm2&logoColor=white)]()
+[![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
+[![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
+[![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
+
+### Systems
+
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
+[![](https://img.shields.io/badge/Truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white)]()
+[![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
+[![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
+[![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
+
+<a href='http://ipv6-test.com'><img src='http://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' /></a>
+
+<!-- IPv6-test.com widget BEGIN -->
+<script type="text/javascript">var _ipv6test_widget_style = {
+border: "solid 1px #000",
+font_size: "12px",
+show_country_flags: true,
+show_loading_anim: true,
+ipv4_label_color: "#393",
+ipv4_background_color: "#eee",
+ipv6_label_color: "#339",
+ipv6_background_color: "#ddd",
+stats_position: "bottom",
+stats_font_size: "10px",
+stats_color: "#eee",
+stats_color_v4: "#beb",
+stats_color_v6: "#bbe",
+stats_background_color: "#666"
+}</script>
+
+<div id="_ipv6test_widget" style="width:250px;display:none">loading <a href="http://ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="http://ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
+<!-- IPv6-test.com widget END -->
