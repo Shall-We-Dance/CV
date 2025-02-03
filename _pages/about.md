@@ -18,11 +18,9 @@ redirect_from:
   gtag('config', 'G-94EQNHMBQF');
 </script>
 
-About Me
-======
-Born and raised in Chengdu, Hongjiang received his bachelor's degree with honors from Nankai in 2023. He was a visiting scholar at UCSF and a research assistant at Tsinghua.
+Born and raised in Chengdu, I received my bachelor's degree with honors from Nankai in 2023. I was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-His research interests now mainly lie in functional & computational genomics, as well as neurological disorders.
+My research interests now mainly lie in functional & computational genomics, as well as neurological disorders.
 
 Education
 ------
