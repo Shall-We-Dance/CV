@@ -25,9 +25,9 @@ author:
   avatar           : "profile_s.jpg"
   name             : "Hongjiang Liu"
   pronouns         : "he/him"  
-  bio              : "My Bio is Bio."
-  location         : "Earth"
-  employer         : "Cornell University"
+  bio              : 
+  location         : 
+  employer         : 
   uri              : "https://cv.greysea.cc"
   email            : "hl2522@cornell.edu"
 

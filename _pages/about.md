@@ -20,7 +20,7 @@ redirect_from:
 
 Born and raised in Chengdu, I received my bachelor's degree with honors from Nankai in 2023. I was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-Now I am a Ph.D. student at Cornell. My research interests now mainly lie in functional & computational genomics.
+Now I'm a Ph.D. student at Cornell, where I focus on functional and computational genomics.
 
 Education
 ------
