@@ -20,7 +20,7 @@ redirect_from:
 
 Born and raised in Chengdu, I received my bachelor's degree with honors from Nankai in 2023. I was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-My research interests now mainly lie in functional & computational genomics, as well as neurological disorders.
+Now I am a Ph.D. student at Cornell. My research interests now mainly lie in functional & computational genomics.
 
 Education
 ------
@@ -39,6 +39,7 @@ Education
     <div class="media-body">
         <div><span style="font-weight: bold">Ph.D. Student</span></div>
         <div>Department of Molecular Biology and Genetics</div>
+        <div>Advisor: Prof. <a href="https://jongminkimlab.org" target="_blank">Jongmin Kim</a></div>
         <div>Cornell University, 2024-Present</div>
     </div>
 </div>
@@ -75,15 +76,6 @@ Experience
     </div>
 </div>
 
-<div class="media">
-    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Intern</span></div>
-        <div>National Engineering Lab for Neuromodulation</div>
-        <div>Tsinghua University, 2021</div>
-    </div>
-</div>
-
 Publications
 ------
 <style>
@@ -98,71 +90,10 @@ Publications
 } 
 </style>
 
-Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
+[Google Scholar](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
-<table>
 
-<tr>
-<td><img class="proj_thumb" src="images/publications/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> MYC phase separation selectively modulates the transcriptome </div>
-<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
-<div class="pub_journal"><i><b>Nature Structural & Molecular Biology</b>, 2024</i> [<a href="https://doi.org/10.1038/s41594-024-01322-6">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/PNAS2024.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Phase separation of YAP-MAML2 differentially regulates the transcriptome </div>
-<div class="pub_author"> Chung, C., Yang, J., Yang X., <b>Liu, H.</b>, ... Shen, Y., Shu, X.#</div>
-<div class="pub_journal"><i><b>PNAS</b>, 2024</i> [<a href="https://doi.org/10.1073/pnas.2310430121">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
-<div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
-<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/NG2023.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
-<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... , <b>Liu, H.</b>, ... & Shen, Y.# </div>
-<div class="pub_journal"><i><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/adma2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
-<div class="pub_author"> Wei, Y., Wu, J., Wu, Y., <b>Liu, H.</b>, ... , Huang, X.# </div>
-<div class="pub_journal"><i><b>Advanced Materials</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
-</td>
-</tr>
-
-<tr>
-<td><img class="proj_thumb" src="images/publications/thno2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Bioorthogonal catalytic nanozyme-mediated lysosomal membrane leakage for targeted drug delivery </div>
-<div class="pub_author"> Sun, Z., Liu, Q., Wang, X., Wu, J., ... , <b>Liu, H.</b>, ... & Huang, X.# </div>
-<div class="pub_journal"><i><b>Theranostics</b>, 2022</i> [<a href="https://doi.org/10.7150/thno.66325">Paper</a>]</div>
-</td>
-</tr>
-
-</table>
-
-Awards
-------
-
- * *Ray Wu* Graduate Fellowship, MBG, Cornell University 
- * *Poling* Honors Degree, Nankai University
- * Scholarship of Academic Progress, Nankai University
-
-Technical Skills
-------
-
-### Programming & Libraries
+### Coding Languages I Enjoy Using
 
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -171,9 +102,8 @@ Technical Skills
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
-[![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
 
-### Software
+### Software I Like
 
 [![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -191,36 +121,3 @@ Technical Skills
 [![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
-
-### Systems
-
-[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
-[![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
-[![](https://img.shields.io/badge/Truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white)]()
-[![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
-[![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
-[![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
-
-<a href='http://ipv6-test.com'><img src='http://v4v6.ipv6-test.com/imgtest.png' alt='ipv6 test' title='ipv6 test' border='0' /></a>
-
-<!-- IPv6-test.com widget BEGIN -->
-<script type="text/javascript">var _ipv6test_widget_style = {
-border: "solid 1px #000",
-font_size: "12px",
-show_country_flags: true,
-show_loading_anim: true,
-ipv4_label_color: "#393",
-ipv4_background_color: "#eee",
-ipv6_label_color: "#339",
-ipv6_background_color: "#ddd",
-stats_position: "bottom",
-stats_font_size: "10px",
-stats_color: "#eee",
-stats_color_v4: "#beb",
-stats_color_v6: "#bbe",
-stats_background_color: "#666"
-}</script>
-
-<div id="_ipv6test_widget" style="width:250px;display:none">loading <a href="http://ipv6-test.com/">IPv6 connection test</a> ...</div><script type="text/javascript" src="http://ipv6-test.com/api/widget.php?domain=referer" async="async"></script>
-<!-- IPv6-test.com widget END -->
