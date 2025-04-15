@@ -93,6 +93,7 @@ Publications
 [Google Scholar](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
 
+------
 ### Coding Languages I Enjoy Using
 
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
