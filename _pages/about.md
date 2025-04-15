@@ -90,7 +90,7 @@ Publications
 } 
 </style>
 
-[Google Scholar](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
+Check out my full list of papers on: [Google Scholar](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
 
 ------
