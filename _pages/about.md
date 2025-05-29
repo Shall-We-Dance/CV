@@ -20,7 +20,7 @@ redirect_from:
 
 Born and raised in Chengdu, I received my bachelor's degree with honors from Nankai in 2023. I was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-Now I'm a Ph.D. student at Cornell, where I focus on functional and computational genomics.
+Now I'm a Ph.D. student at Cornell, where I study sperm production in fruit fly.
 
 Education
 ------
@@ -38,7 +38,7 @@ Education
     <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Ph.D. Student</span></div>
-        <div>Department of Molecular Biology and Genetics</div>
+        <div>College of Agriculture and Life Sciences</div>
         <div>Advisor: Prof. <a href="https://jongminkimlab.org" target="_blank">Jongmin Kim</a></div>
         <div>Cornell University, 2024-Present</div>
     </div>
@@ -61,7 +61,7 @@ Experience
     <div class="media-body">
         <div><span style="font-weight: bold">Research Assistant</span></div>
         <div>National Engineering Lab for Neuromodulation</div>
-        <div>Advisor: Prof. <a href="https://yanansui.com" target="_blank">Yanan Sui</a></div>
+        <div>Advisor: Prof. <a href="https://lnsgroup.cc" target="_blank">Yanan Sui</a></div>
         <div>Tsinghua University, 2022-2023</div>
     </div>
 </div>
