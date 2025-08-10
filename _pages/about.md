@@ -38,7 +38,7 @@ Education
     <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Ph.D. Student</span></div>
-        <div>College of Agriculture and Life Sciences</div>
+        <div>Graduate Field of Biochemistry, Molecular and Cell Biology</div>
         <div>Advisor: Prof. <a href="https://jongminkimlab.org" target="_blank">Jongmin Kim</a></div>
         <div>Cornell University, 2024-Present</div>
     </div>
