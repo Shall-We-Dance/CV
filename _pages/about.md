@@ -96,8 +96,8 @@ Check out my full list of papers on: [Google Scholar](https://scholar.google.com
 ------
 ### Coding Languages I Enjoy Using
 
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -106,16 +106,15 @@ Check out my full list of papers on: [Google Scholar](https://scholar.google.com
 
 ### Software I Like
 
-[![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
-[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/Conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
 [![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
 [![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
 [![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
 [![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![](https://img.shields.io/badge/ImageJ-00D8E0?&style=for-the-badge&logo=imagej&logoColor=white)]()
-[![](https://img.shields.io/badge/SnapGene-5DB1D9?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
 [![](https://img.shields.io/badge/iterm2-000000?&style=for-the-badge&logo=iterm2&logoColor=white)]()
