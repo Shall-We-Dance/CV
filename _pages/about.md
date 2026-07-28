@@ -20,7 +20,7 @@ redirect_from:
 
 Born and raised in Chengdu, I received my bachelor's degree with honors from Nankai in 2023. I was a visiting scholar at UCSF and a research assistant at Tsinghua.
 
-Now I'm a Ph.D. student at Cornell, where I study functional and computational genomics.
+Now I'm a Ph.D. candidate at Cornell, where I study functional and computational genomics.
 
 Education
 ------
@@ -37,7 +37,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/cornell.svg" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Ph.D. Student</span></div>
+        <div><span style="font-weight: bold">Ph.D. Candidate</span></div>
         <div>Graduate Field of Biochemistry, Molecular and Cell Biology</div>
         <div>Advisor: Prof. <a href="https://jongminkimlab.org" target="_blank">Jongmin Kim</a></div>
         <div>Cornell University, 2024-Present</div>
